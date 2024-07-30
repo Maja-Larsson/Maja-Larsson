@@ -4,7 +4,7 @@ I am a Computer Science and Engineering student currently pursuing my master's d
 
 ### Coding Skills
 - 💻 **Langugages:** Python, Java, C, SQL, PostgreSQL, Golang, LaTeX (OverLeaf), Assembly, Haskell.
-- 📚 **Libraries**: numpy, matplotlib, pandas etc. 
+- 📚 **Libraries**: numpy, matplotlib, pandas. 
 - 📁 **Other**: Experiences with Linux environments and version control systems (Git). 
 
 ### Education
@@ -18,7 +18,7 @@ I am a Computer Science and Engineering student currently pursuing my master's d
 - 📧 **E-mail:** majlar@kth.se and larsson.c.maja@gmail.com
 - 🔗 **LinkedIn:** [Maja Larsson](www.linkedin.com/in/maja-c-larsson)
 - :octocat: **GitHub**: [Maja-Larsson](https://github.com/Maja-Larsson)
-- **Website:** Coming Soon 🚧
+- 🚀 **Website:** Coming Soon 🚧
 
 <!--
 **Maja-Larsson/Maja-Larsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
