@@ -4,7 +4,7 @@ I am a Computer Science and Engineering student currently pursuing my master's d
 
 ### Coding Skills
 - 💻 **Langugages:** Python, Java, C, SQL, PostgreSQL, Golang, LaTeX (OverLeaf), Assembly, Haskell.
-- 📚 **Libraries**: numpy, matplotlib, pandas. 
+- 📚 **Libraries**: numpy, matplotlib, pandas, scikit-learn, nltk. 
 - 📁 **Other**: Experiences with Linux environments and version control systems (Git). 
 
 ### Education
