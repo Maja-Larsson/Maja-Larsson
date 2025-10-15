@@ -1,6 +1,6 @@
-## Hi, I'm Maja👋
+## Hi, I'm Maja Larsson👋
 
-I am a Computer Science and Engineering student currently pursuing my master's degree at the Royal Institute of Technology in Stockholm. 
+I am a Computer Science and Engineering student currently pursuing my master's degree with a specialization in Data Science at the Royal Institute of Technology (KTH) in Stockholm. 
 
 ### Coding Skills
 - 💻 **Langugages:** Python, Java, C, SQL, PostgreSQL, Golang, LaTeX (OverLeaf), Assembly, Haskell.
@@ -15,10 +15,8 @@ I am a Computer Science and Engineering student currently pursuing my master's d
 - 💡 Constantly learning and expanding my knowledge, striving to be a innovative thinker and problem solver each day.
 
 ### Contact Me 
-- 📧 **E-mail:** majlar@kth.se and larsson.c.maja@gmail.com
+- 📧 **E-mail:** majlar@kth.se | larsson.c.maja@gmail.com
 - 🔗 **LinkedIn:** [Maja Larsson](https://www.linkedin.com/in/maja-c-larsson/)
-- :octocat: **GitHub**: [Maja-Larsson](https://github.com/Maja-Larsson)
-- 🚀 **Website:** Coming Soon 🚧
 
 <!--
 **Maja-Larsson/Maja-Larsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
