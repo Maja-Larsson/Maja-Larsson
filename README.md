@@ -1,10 +1,10 @@
 # Hi, I'm Maja Larsson 👋
 
-I am a Computer Science and Engineering student currently pursuing my master's degree with a specialization in Data Science at the Royal Institute of Technology (KTH) in Stockholm. 
+I am an AI and data tech nerd!
 
 ## 🎓 Education
-- Computer Science and Engineering at KTH Royal Institute of Technology, Master's in Data Science (2021-2026)
-- Exchange semester at Instituto Superior Técnico, Lisbon, Portugal (Spring 2025) 
+- Computer Science and Engineering at KTH Royal Institute of Technology, Master's in Data Science 
+- Exchange semester at Instituto Superior Técnico, Lisbon, Portugal 
 
 ## 💼 Professional Experience
 - Digital administrator & Fullstack developer at Pepp
